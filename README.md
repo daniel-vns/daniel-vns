@@ -6,7 +6,11 @@
 
 ### 🛠️ Featured Projects
 
-<p align="justify">Internship as a full-stack developer at  <a href="https://softcom.inf.br" target="_blank">Softcom Tecnologia</a> in partnership with <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>.</p>
+<p align="justify">• Developed a complete back-end with Node.js as the final project for the back-end course by <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>.</p>
+<br>
+<p align="justify">• Created a full web system with Node.js and React.js for <a href="https://softcom.inf.br" target="_blank">Softcom Tecnologia</a> in partnership with <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>. Later became an intern and currently work as a freelancer for Softcom Tecnologia.</p>
+<br>
+<p align="justify">• Currently enrolled in the Full Stack Developer .NET C# bootcamp at <a href="https://www.dio.me/" target="_blank">DIO</a>.</p>
 
 ### Some of my skills
 
