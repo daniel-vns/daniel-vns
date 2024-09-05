@@ -62,7 +62,7 @@
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniel-vns&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=5&show_icons=true&title_color=00A6FB&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=36123c&count_private=true)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniel-vns&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=10&show_icons=true&title_color=00A6FB&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=36123c&count_private=true)
 
 <!--
 <details align="left">
