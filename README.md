@@ -1,16 +1,34 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%2300A6FB&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Daniel Silva
+
 <img align="right" alt="Developer verctor created by www.freepik.com" height="380" width="380" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
-### Hello! My name is Daniel Silva 👋
+:school: Graduated in Systems Analysis and Development</br>
+💼 Currently, I work as a full-stack developer freelancer</br>
+:computer: I have a passion for technology</br>
+🎉 I love UFC, TV series, movies, and spending time with friends and family</br>
+🔍 Currently Seeking Job Opportunities</br>
 
-<p align="justify">I graduated in Systems Analysis and Development in July 2024. I have completed an accelerated training course in back-end development with Node.js, and I currently work as a freelance full-stack developer, using Node.js, React.js, and MySQL or MongoDB databases. I am always seeking new knowledge through courses and bootcamps. I am passionate about technology and am seeking either a permanent position or more companies to offer my services in the IT field.
-  
-### ⭐ Featured Projects, Courses, and Training!!! 
+### 🎓 Associate degree
 
-<p align="justify">🏷️ Developed a complete back-end with Node.js as the final project for the back-end course by <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>.</p>
+<p align="justify">🚀 Systems Analysis and Development at <a href="https://estacio.br/" target="_blank">Estácio University</a>.</p>
+
+
+### 📚 Courses
+
+<p align="justify">🚀 Back-end Developer at <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>.</p>
+
+
+### 🎯 Bootcamps 
+
+<p align="justify">🚀 Currently enrolled in the Full Stack Developer .NET C# bootcamp at <a href="https://www.dio.me/" target="_blank">DIO</a>.</p>
+
+
+### ⭐ Featured Projects
+
+<p align="justify">🏷️ Developed a complete back-end web system with Node.js as the final project for the back-end course by <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>.</p>
 
 <p align="justify">🏷️ Created a full web system with Node.js and React.js for <a href="https://softcom.inf.br" target="_blank">Softcom Tecnologia</a> in partnership with <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>. Later became an intern and currently work as a freelancer for Softcom Tecnologia.</p>
-
-<p align="justify">🏷️ Currently enrolled in the Full Stack Developer .NET C# bootcamp at <a href="https://www.dio.me/" target="_blank">DIO</a>.</p>
 
 ### Some of my skills
 
@@ -46,6 +64,7 @@
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniel-vns&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=5&show_icons=true&title_color=00A6FB&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=36123c&count_private=true)
 
+<!--
 <details align="left">
   <summary></summary> 
  
@@ -56,3 +75,5 @@
   <div align="right">Made with 💜 by <a href="https://github.com/daniel-vns">DS</a>.</div>
 
 </details>
+-->
+
