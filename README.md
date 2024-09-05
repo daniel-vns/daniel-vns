@@ -4,7 +4,7 @@
 <img align="right" alt="Developer verctor created by www.freepik.com" height="380" width="380" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
 :school: Graduated in Systems Analysis and Development</br>
-💼 Currently, I work as a full-stack developer freelancer</br>
+💼 Currently working as a full-stack developer freelancer</br>
 :computer: I have a passion for technology</br>
 🎉 I love UFC, TV series, movies, spending time with friends and family</br>
 🔍 Open to Job Opportunities</br>
