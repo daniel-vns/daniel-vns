@@ -4,7 +4,7 @@
 <img align="right" alt="Developer verctor created by www.freepik.com" height="380" width="380" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
 :school: Graduated in Systems Analysis and Development</br>
-💼 Currently working as a full-stack developer freelancer</br>
+💼 Currently working as a back-end developer freelancer</br>
 :computer: I have a passion for technology</br>
 🎉 I love UFC, TV series, movies, spending time with friends and family</br>
 🔍 Open to Job Opportunities</br>
@@ -21,14 +21,14 @@
 
 ### 🎯 Bootcamps 
 
-<p align="justify">🚀 Currently enrolled in the Full Stack Developer .NET C# bootcamp at <a href="https://www.dio.me/" target="_blank">DIO</a>.</p>
+<p align="justify">🚀 I am interested in doing it, for now I am planning which one I will do <!--<a href="https://www.dio.me/" target="_blank">DIO</a>.</p>##-->
 
 
 ### ⭐ Featured Projects
 
 <p align="justify">🏷️ Developed a complete back-end web system with Node.js as the final project for the back-end course by <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>.</p>
 
-<p align="justify">🏷️ Created a full web system with Node.js and React.js for <a href="https://softcom.inf.br" target="_blank">Softcom Tecnologia</a> in partnership with <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>. Later became an intern and currently work as a freelancer for Softcom Tecnologia.</p>
+<p align="justify">🏷️ Created a full web system with Node.js and React.js for <a href="https://softcom.inf.br" target="_blank">Softcom Tecnologia</a> in partnership with <a href="https://softexpe.org.br" target="_blank">Softex Pernambuco</a>. Later became an intern and work as a freelancer for Softcom Tecnologia unitl may 2025.</p>
 
 ### Some of my skills
 
